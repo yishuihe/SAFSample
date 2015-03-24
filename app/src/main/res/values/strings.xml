@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">SAFSample</string>
+
+    <string name="title_section1">Open File</string>
+    <string name="title_section2">Folder Choose</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- for document operation -->
+    <string name="open_document">Open</string>
+    <string name="delete_document">Delete</string>
+    <string name="new_document">New</string>
+
+
+    <!-- for directory selection -->
+    <string name="open_directory">Open directory</string>
+    <string name="create_directory">Create Directory</string>
+    <string name="selected_directory">"Selected Directory : "</string>
+
+
+</resources>
